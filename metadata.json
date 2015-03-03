@@ -1,0 +1,20 @@
+{
+  "name": "nubis-consul_replicate",
+  "version": "0.0.1",
+  "author": "nubis",
+  "summary": "Puppet module to install consul-replicate",
+  "license": "MPL-2.0",
+  "source": "https://github.com/Nubisproject/nubis-puppet-consul-replicate",
+  "project_page": "https://github.com/Nubisproject/nubis-puppet-consul-replicate",
+  "issues_url": "https://github.com/Nubisproject/nubis-puppet-consul-replicate/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    },
+   {
+      "name": "nanliu-staging"
+   }
+  ]
+}
+
